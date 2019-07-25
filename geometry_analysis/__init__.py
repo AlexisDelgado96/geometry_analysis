@@ -1,6 +1,6 @@
 """
 geometry analysis
-MolSSI Software Summer School
+A python package for MolSSI Software Summer School
 """
 
 # Add imports here
